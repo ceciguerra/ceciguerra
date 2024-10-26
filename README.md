@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ceciguerra
-- 👀 I’m interested in Data Analysis, AI, machine learning
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on future Data Analytics projects (when I'm finished studying)
+- 👀 I love Data Analytics. I'm interested in learning AI, machine learning
+- 🌱 I’ve studied Data Analytics. I know SQL, Python and Power BI.
+- 💞️ I’m looking to collaborate on future Data Analytics projects
 - 📫 How to reach me: cmguerrac@gmail.com
 
 <!---
