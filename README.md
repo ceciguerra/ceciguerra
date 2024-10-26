@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceciguerra
 - 👀 I love Data Analytics. I'm interested in learning AI, machine learning
-- 🌱 I’ve studied Data Analytics. I know SQL, Python and Power BI.
+- 🌱 I’ve studied Data Analytics. My actual knowledge: SQL Server, Python, Power BI.
 - 💞️ I’m looking to collaborate on future Data Analytics projects
 - 📫 How to reach me: cmguerrac@gmail.com
 
